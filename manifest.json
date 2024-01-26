@@ -10,8 +10,31 @@
     "orientation": "any",
     "icons": [
         {
-            "src": "moon.avif",
-            "sizes": "1024x1024"
+            "src": "lunar.jpg",
+            "sizes": "640x640",
+            "purpose": "any"
+        },
+        {
+            "src": "Lunar.png",
+            "sizes": "640x640",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "lunar.jpg",
+            "sizes": "640x640",
+            "type": "image/jpg",
+            "form_factor": "wide",
+            "label": "Lunar Calendar"
+        },
+        {
+            "src": "lunar.jpg",
+            "sizes": "640x640",
+            "type": "image/jpg",
+            "form_factor": "narrow",
+            "label": "Lunar Calendar"
         }
     ]
 }
