@@ -1,0 +1,17 @@
+{
+    "name": "Lịch vạn niên",
+    "short_name": "Lịch âm",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://christine.website/",
+    "description": "Lịch vạn niên dành cho bà Bảy",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://christine.website/static/img/avatar.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
