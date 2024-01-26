@@ -1,8 +1,8 @@
 {
     "name": "Lịch vạn niên",
     "short_name": "Lịch âm",
-    "theme_color": "#ffcbe4",
-    "background_color": "#fa99ca",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone",
     "scope": "/",
     "start_url": "https://lunar-calendar-pwa.vercel.app/",
